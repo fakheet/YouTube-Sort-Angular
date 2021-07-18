@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'yt-sort-angular';
+
+  videos = [1, 2, 3]
 }
